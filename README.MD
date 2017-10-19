@@ -1,5 +1,9 @@
 # Chat Bot using Python Flask
 
+## Contribute to Projecct
+* Fork the project
+* Put pull request
+
 ## Installation Guide
 
 * Install a virtualenv
