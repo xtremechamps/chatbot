@@ -1,1 +1,1 @@
-web: gunicorn dileepfbot:app 
+web: gunicorn facebookbot:app 
