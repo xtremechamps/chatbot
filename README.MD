@@ -24,6 +24,16 @@ $ python facebookbot.py 5000
 * Open Web browser and enter url
 http://localhost:5000/ or http://127.0.0.1:5000/
 
+## Testing How-To:
+
+
+1. Activate Virtual environment as given in `Installation Guide`
+2. Install requirements
+> pip install -r test-requirements.txt
+3. Run nosetests
+> nosetests --verbose
+
+*Note* `--verbose` flag not required but recommended
 
 ## Heroku support
 * Create a new account on heroku and download heroku cli
